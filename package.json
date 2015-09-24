@@ -1,0 +1,12 @@
+{
+  "name": "elq",
+  "version": "0.0.1",
+  "description": "Placeholder for the elq project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wnr/elq-dummy.git"
+  },
+  "author": "Lucas Wiener",
+  "license": "MIT"
+}
